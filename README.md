@@ -102,3 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch Team for the amazing deep learning framework
 - MNIST dataset creators
 - Researchers who pioneered binary neural networks
+
+## Author
+
+__Pinyoo Yothotaboot__
