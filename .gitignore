@@ -1,0 +1,54 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest
+.cache/
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pytest-cov
+*.coverage
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+/data
+
+*.png
+*.pth
